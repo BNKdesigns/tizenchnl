@@ -1,16 +1,10 @@
 {
-  "name": "tizenchnl Repository",
-  "description": "TizenBrew repository for webchnl Tizen Edition.",
-  "packages": [
-    {
-      "id": "J60tuNam2o.webchnl", 
-      "name": "webchnl",
-      "version": "1.0.0",
-      "desc": "Free TV, For Individuals.",
-      "pic": "https://webchnl.com/assets/svg/webchnl_icon.svg",
-      "url": "https://github.com/BNKdesigns/tizenchnl/releases/download/webchnl/webchnl.wgt",
-      "maintainer": "BNK",
-      "type": "wgt"
-    }
-  ]
+  "name": "tizenchnl",
+  "version": "1.0.0",
+  "description": "webchnl Tizen Edition",
+  "packageType": "mods",
+  "appName": "webchnl",
+  "websiteURL": "https://ebnk.xyz/tizenchnl",
+  "main": "index.js",
+  "author": "BNK"
 }
